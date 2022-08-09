@@ -1,0 +1,8 @@
+[17-Feb-2017 13:38:52 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 57
+[17-Feb-2017 13:41:37 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 57
+[17-Feb-2017 13:41:39 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 57
+[17-Feb-2017 14:56:53 UTC] PHP Fatal error:  Cannot redeclare class App\Http\Controllers\HomeController in /home/eofficek/public_html/kpt-ketapangkab.net/app/Http/Controllers/SimulasiController.php on line 0
+[18-Feb-2017 06:18:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 67
+[18-Feb-2017 06:18:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 67
+[18-Feb-2017 12:48:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/eofficek/public_html/kpt-ketapangkab.net/storage/framework/views/c247e9c3e22a9b75d50585dbf6e93fed00d25dfe.php on line 18
+[17-Apr-2017 05:09:31 UTC] PHP Fatal error:  Cannot use Input as Input because the name is already in use in /home/eofficek/public_html/kpt-ketapangkab.net/app/Http/Controllers/MasterController.php on line 14

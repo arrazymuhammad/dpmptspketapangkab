@@ -1,0 +1,27 @@
+/* Add here all your CSS customizations */
+.img-responsive{
+	position: center;
+	height: 200px;
+	width: 360px;
+}
+
+#judulblog {
+	text-align: justify; 
+	text-justify: newspaper;
+}
+#gambarblog{
+	width: 350px;
+	height: 260px;
+}
+
+#gambarblogdetail img{
+	width: 1280px;
+	height: 500px;
+}
+#gambarrecent img{
+	width: 50px;
+	height: 50px;
+}
+p{
+	text-align: justify-all;
+}
